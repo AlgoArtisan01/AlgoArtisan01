@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rohit Chandra , Always ready to build something amazing !</h1>
-<h3 align="center">Turning complex problems into elegant code, one commit at a time</h3>
+<h2 align="center">Turning complex problems into elegant code, one commit at a time</h2>
 <h3> </h3>
 
 - 🔭 I’m currently working on **SAAS Platform Powered by AI**
@@ -8,9 +8,8 @@
 
 - 👯 I’m looking to collaborate on **AI Model Training and Fine Tunning**
 
-- ⚡ Fun fact **Dark Humour Always At Its Peak**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: www.linkedin.com/in/the-rohit-chandra</h3>
 <p align="left">
 </p>
 
