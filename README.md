@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rohit Chandra , Always ready to build something amazing !</h1>
+<h1 align="center">Hi, I'm Rohit , Always ready to build something amazing !</h1>
 <h2 align="center">Turning complex problems into elegant code, one commit at a time</h2>
 <h3> </h3>
 
