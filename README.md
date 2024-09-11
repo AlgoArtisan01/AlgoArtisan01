@@ -2,7 +2,7 @@
 <h2 align="center">Turning complex problems into elegant code, one commit at a time</h2>
 <h3> </h3>
 
-- 🔭 I’m currently working on **SAAS Platform Powered by AI**
+- 🔭 I’m currently working on **SAAS Platform Powered by AI Companion**
 
 - 🌱 I’m currently learning **React , Javascript**
 
