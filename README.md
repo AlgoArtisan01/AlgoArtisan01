@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Rohit , Always ready to build something amazing !</h1>
-<h2 align="center">Turning complex problems into elegant code, one commit at a time</h2>
+<h1 align="center">Hi, I'm Rohit , Always ready to build something amazing</h1>
+<h3 align="center">"Turning complex problems into elegant code, one commit at a time"</h3>
 <h3> </h3>
 
 - 🔭 I’m currently working on **Full Stack Web Development**
