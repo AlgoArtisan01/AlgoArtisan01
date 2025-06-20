@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on "**Full Stack Web Development**"<br>👯 I’m looking to collaborate on "**AI Model Training and Tuning of pre-existing Models**"<br>🤝 I’m looking for help with "**Blockchain & Web3**" <br>🌱 I’m currently learning "**Frameworks like React, Express and and Next Js**"<br>⚡ Fun fact " I speak fluent `console.log()` "
+🔭 I’m currently working on "**Full Stack Web Development (MERN)**"<br>👯 I’m looking to collaborate on "**AI Model Training and Tuning of pre-existing Models**"<br>🤝 I’m looking for help with "**Blockchain & Web3**" <br>🌱 I’m currently learning "**Frameworks like React, Express and and Next Js**"<br>⚡ Fun fact " I speak fluent `console.log()` "
 
 
 ## 🌐 Socials:
