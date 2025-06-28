@@ -1,5 +1,9 @@
 <h1 align="center">Heyy 👋, I'm Rohit Chandra ...</h1>
+
 <h3 align="center">"Turning complex problems into elegant code, one commit at a time"</h3>
+<p align="center">
+ <img src="https://raw.githubusercontent.com/IndusAryan/IndusAryan/main/line3.gif" alt="Divider" width="1050" height="4" />
+</p>
 <h3> </h3>
 
 
